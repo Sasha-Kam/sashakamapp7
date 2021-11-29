@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sashakamapp7</string>
+    <string name="textview_top">Добро пожаловать в приложение команды Star Dance! Чтобы записаться на занятие, нажми "Записаться".</string>
+    <string name="button">Записаться</string>
+</resources>

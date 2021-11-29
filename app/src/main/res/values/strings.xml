@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sashakamapp7</string>
+    <string name="textview_top">Welcome to the Star Dance team app! To register for a class, tap Roll In.</string>
+    <string name="button">Roll In</string>
+    <string name="btnViewCalendar">View Calendar</string>
+    <string name="Class1">The House Dance Masterclass: A Creative approach to learning the foundation of house dance, Turning 1 dance move into 1000 moves and creative your own unique dance style.
+
+Welcome the only dance course that teaches you how hack the system and learn what the pros took years to learn.
+
+Have you always wanted to learn how to house dance but the steps just seemed too difficult? Do you never know how to start? This course is designed to not only teach you the foundation of house dancing but also to show how to unleash your inner creativity.
+    </string>
+    <string name="Class2">BALLET: Ballet Technique classes are the foundation for training and focus on developing a solid ballet technique with emphasis on understanding correct body placement, proper use of turn out, coordination of the upper body (epaulement), and use of arms (port de bras).</string>
+    <string name="Class3">K-POP is a worldwide musical genre that is best known for its iconic dances. It incorporates cute, high intensity movement to all of your top K-POP Idols including BTS, Girls Generation, GOT7 MORE! Starting with a warm up and followed by a short choreography to various K-POP dances by your favourite artists.</string>
+
+</resources>
